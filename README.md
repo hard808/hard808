@@ -26,37 +26,6 @@
 
 ---
 
-<h1 align="left">⚔️ whoami</h1>
-
-```rust
-struct Hard808 {
-    name: &'static str,
-    role: &'static str,
-    passion: Vec<&'static str>,
-    langs: Vec<&'static str>,
-    goal: &'static str,
-}
-
-impl Hard808 {
-    fn new() -> Self {
-        Self {
-            name: "Riust",
-            role: "Vibe Coder 🔥",
-            passion: vec![
-                "Unity Game Development",
-                "OpenGL Graphics Programming",
-                "Laravel Backend",
-                "Mancing 🎣",
-            ],
-            langs: vec!["C++", "C#", "Java", "PHP"],
-            goal: "Ternak Lele 🐟",
-        }
-    }
-}
-```
-
----
-
 <h1 align="left">🛠️ Tech Arsenal</h1>
 
 <div align="center">
