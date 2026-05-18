@@ -16,6 +16,7 @@
 Name: Riust
 Role: VIBE CODER
 Focus:
+  - Mancing, sisannya terserah 
   - Unity Game Development
   - OpenGL Graphics
   - Laravel Backend
