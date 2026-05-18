@@ -14,7 +14,7 @@
 
 ```yaml
 Name: Riust
-Role: Beginner Game Developer
+Role: VIBE CODER
 Focus:
   - Unity Game Development
   - OpenGL Graphics
@@ -28,4 +28,4 @@ Currently Learning:
   - 3D Graphics
   - Fullstack Development
 Goal:
-  Become a Professional Developer
+  Ternak Lele
