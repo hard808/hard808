@@ -24,7 +24,9 @@
 
 </div>
 
-# ⚔️ whoami
+---
+
+<h1 align="left">⚔️ whoami</h1>
 
 ```rust
 struct Hard808 {
@@ -55,7 +57,7 @@ impl Hard808 {
 
 ---
 
-# 🛠️ Tech Arsenal
+<h1 align="left">🛠️ Tech Arsenal</h1>
 
 <div align="center">
 
@@ -82,7 +84,7 @@ impl Hard808 {
 
 ---
 
-# 📊 Battle Stats
+<h1 align="left">📊 Battle Stats</h1>
 
 <div align="center">
 
@@ -98,7 +100,7 @@ impl Hard808 {
 
 ---
 
-# 🏆 Achievement Unlocked
+<h1 align="left">🏆 Achievement Unlocked</h1>
 
 <div align="center">
 
@@ -108,7 +110,7 @@ impl Hard808 {
 
 ---
 
-# 📈 Contribution Graph
+<h1 align="left">📈 Contribution Graph</h1>
 
 <div align="center">
 
@@ -118,14 +120,18 @@ impl Hard808 {
 
 ---
 
-# 🐟 Life Goals
+<h1 align="left">🐟 Life Goals</h1>
 
-```txt
-[████████████████████░░░░░░░░░░] 60% — Jadi developer handal
-[████████████░░░░░░░░░░░░░░░░░░] 40% — Nguasain OpenGL
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 15% — Ternak Lele 🐟
-[██████████████████████████████] 99% — Mancing ikan 🎣
-```
+<div align="center">
+
+| Goal | Progress |
+|------|----------|
+| 💻 Jadi developer handal | ████████████████████░░░░ 80% |
+| 🎮 Nguasain OpenGL | ████████████░░░░░░░░░░░ 55% |
+| 🐟 Ternak Lele | ██████░░░░░░░░░░░░░░░░░ 20% |
+| 🎣 Mancing ikan | ███████████████████████ 99% |
+
+</div>
 
 ---
 
