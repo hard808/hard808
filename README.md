@@ -26,24 +26,24 @@
 
 ---
 
-<h1 align="left">🛠️ Tech Arsenal</h1>
+<h1 align="left"> Tech Arsenal</h1>
 
 <div align="center">
 
-## 🎮 Game & Graphics
+##  Game & Graphics
 
 ![Unity](https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-ff0055?style=for-the-badge&logo=opengl&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6f42c1?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9333ea?style=for-the-badge&logo=csharp&logoColor=white)
 
-## 🌐 Backend & Dev
+##  Backend & Dev
 
 ![Java](https://img.shields.io/badge/Java-ff4da6?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-ff0055?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-7c3aed?style=for-the-badge&logo=php&logoColor=white)
 
-## 🤖 Currently Leveling Up
+##  Currently Leveling Up
 
 ![AI](https://img.shields.io/badge/AI%20for%20Games-ff0055?style=for-the-badge&logo=openai&logoColor=white)
 ![3D Graphics](https://img.shields.io/badge/3D%20Graphics-a855f7?style=for-the-badge&logo=blender&logoColor=white)
@@ -57,8 +57,6 @@
 
 <div align="center">
 
-username=hard808&layout=compact&theme=radical&hide_border=true"/>
-
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hard808&theme=radical&hide_border=true"/>
@@ -67,7 +65,7 @@ username=hard808&layout=compact&theme=radical&hide_border=true"/>
 
 ---
 
-<h1 align="left">🏆 Achievement Unlocked</h1>
+<h1 align="left"> Achievement Unlocked</h1>
 
 <div align="center">
 
@@ -77,7 +75,7 @@ username=hard808&layout=compact&theme=radical&hide_border=true"/>
 
 ---
 
-<h1 align="left">📈 Contribution Graph</h1>
+<h1 align="left"> Contribution </h1>
 
 <div align="center">
 
@@ -87,16 +85,16 @@ username=hard808&layout=compact&theme=radical&hide_border=true"/>
 
 ---
 
-<h1 align="left">🐟 Life Goals</h1>
+<h1 align="left"> Life Goals</h1>
 
 <div align="center">
 
 | Goal | Progress |
 |------|----------|
-| 💻 Jadi developer handal | ████████████████████░░░░ 80% |
-| 🎮 Nguasain OpenGL | ████████████░░░░░░░░░░░ 55% |
-| 🐟 Ternak Lele | ██████░░░░░░░░░░░░░░░░░ 20% |
-| 🎣 Mancing ikan | ███████████████████████ 99% |
+|  Jadi developer handal | ████████████████████░░░░ 80% |
+|  Nguasain OpenGL | ████████████░░░░░░░░░░░ 55% |
+|  Ternak Lele | ██████░░░░░░░░░░░░░░░░░ 20% |
+|  Mancing ikan | ███████████████████████ 99% |
 
 </div>
 
@@ -104,7 +102,7 @@ username=hard808&layout=compact&theme=radical&hide_border=true"/>
 
 <div align="center">
 
-# 💬 Dev Quote of the Day
+# Dev Quote of the Day
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
