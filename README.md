@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=riust&style=for-the-badge&color=8B0000&labelColor=0a0000&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=hard808&style=for-the-badge&color=8B0000&labelColor=0a0000&label=PROFILE+VIEWS" />
 &nbsp;
-<a href="https://github.com/riust?tab=followers"><img src="https://img.shields.io/github/followers/riust?style=for-the-badge&color=8B0000&labelColor=0a0000&label=FOLLOWERS" /></a>
+<a href="https://github.com/hard808?tab=followers"><img src="https://img.shields.io/github/followers/hard808?style=for-the-badge&color=8B0000&labelColor=0a0000&label=FOLLOWERS" /></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 ## ⚔️ `whoami`
 
 ```rust
-struct Riust {
+struct Hard808 {
     name:    &'static str,
     role:    &'static str,
     passion: Vec<&'static str>,
@@ -29,10 +29,10 @@ struct Riust {
     goal:    &'static str,
 }
 
-impl Riust {
+impl Hard808 {
     fn new() -> Self {
         Self {
-            name:    "Riust",
+            name:    "hard808",
             role:    "Vibe Coder 🔥",
             passion: vec![
                 "Unity Game Development",
@@ -79,13 +79,13 @@ impl Riust {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riust&show_icons=true&theme=blood_dark&hide_border=true&bg_color=0a0000&title_color=ff2222&icon_color=cc0000&text_color=ffffff&ring_color=8B0000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hard808&show_icons=true&theme=blood_dark&hide_border=true&bg_color=0a0000&title_color=ff2222&icon_color=cc0000&text_color=ffffff&ring_color=8B0000"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riust&layout=compact&theme=blood_dark&hide_border=true&bg_color=0a0000&title_color=ff2222&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hard808&layout=compact&theme=blood_dark&hide_border=true&bg_color=0a0000&title_color=ff2222&text_color=ffffff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=riust&theme=dark&hide_border=true&background=0a0000&ring=8B0000&fire=FF2222&currStreakLabel=ff6b6b&sideLabels=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hard808&theme=dark&hide_border=true&background=0a0000&ring=8B0000&fire=FF2222&currStreakLabel=ff6b6b&sideLabels=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 
 </div>
 
@@ -95,7 +95,7 @@ impl Riust {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=riust&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=hard808&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -105,7 +105,7 @@ impl Riust {
 
 <div align="center">
 
-[![Riust's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riust&bg_color=0a0000&color=ff4444&line=8B0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hard808's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hard808&bg_color=0a0000&color=ff4444&line=8B0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
